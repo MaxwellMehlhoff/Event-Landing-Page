@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav .nav-pills li.nav-item a.nav-link,
+  .jumbotron .btn {
+    background-color: darkred;
+    color: #fff;
+    margin: 0 5px;
+  }
+  
+  .jumbotron {
+    height: 600px;
+    background: ;
+    background-size: cover;
+  }
+
+  section.slogan {
+    height: 200px;
+  }
+  
+  section.slogan p {
+    font-size: 50px;
+    font-weight: 100;
+    letter-spacing: 4px;
+    padding: 6rem;
+  }
+
+  main#content {
+    padding: 50px 50px;
+  }
+  
+  .smoke_column {
+    background-color: whitesmoke;
+    padding: 2rem;
+  }
+  
+  main#content .title {
+    font-size: 24px;
+    padding: 10px 0;
+  }
